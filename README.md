@@ -9,9 +9,8 @@ The splash displays a white Framework cog on a pure black background. The cog ro
 - KDE Plasma 6
 - Pure black background
 - White Framework cog
-- Clockwise rotation
+- Clockwise constant linear rotation
 - One revolution every 8 seconds
-- Constant linear rotation speed
 - Preview thumbnail included for System Settings
 
 ## Installation
