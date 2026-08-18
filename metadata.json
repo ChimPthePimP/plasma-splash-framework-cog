@@ -1,0 +1,16 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Chief"
+      }
+    ],
+    "Description": "A minimal black KDE Plasma 6 startup screen with the white Framework cog rotating slowly and smoothly clockwise.",
+    "Id": "com.framework.cogsplash",
+    "License": "GPL-2.0-or-later",
+    "Name": "Framework Cog — Smooth Clockwise",
+    "Version": "1.0.0"
+  },
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
