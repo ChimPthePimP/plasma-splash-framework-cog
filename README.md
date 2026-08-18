@@ -12,8 +12,6 @@ The splash displays a white Framework cog on a pure black background. The cog ro
 - Clockwise rotation
 - One revolution every 8 seconds
 - Constant linear rotation speed
-- No bounce
-- No spinner or loading ring
 - Preview thumbnail included for System Settings
 
 ## Installation
