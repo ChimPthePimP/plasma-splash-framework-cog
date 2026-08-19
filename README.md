@@ -1,9 +1,5 @@
 # Framework Cog — Smooth Clockwise
 
-<p align="center">
-  <img src="contents/previews/splash.png" alt="Framework Cog — Smooth Clockwise" width="500">
-</p>
-
 An unofficial KDE Plasma 6 splash screen for Framework laptop users.
 
 The splash displays a white Framework cog on a pure black background. The cog rotates continuously and smoothly clockwise at one revolution every eight seconds.
