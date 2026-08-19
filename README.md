@@ -2,6 +2,22 @@
 
 An unofficial KDE Plasma 6 splash screen for Framework laptop users.
 
+## Preview
+
+### Static preview
+
+<p align="center">
+  <img src="contents/previews/splash.png" alt="Framework Cog — Smooth Clockwise static preview" width="500">
+</p>
+
+### Animated preview
+
+An animated preview can be added as `contents/previews/splash.gif` and displayed here:
+
+<p align="center">
+  <img src="contents/previews/splash.gif" alt="Framework Cog — Smooth Clockwise animated preview" width="500">
+</p>
+
 The splash displays a white Framework cog on a pure black background. The cog rotates continuously and smoothly clockwise at one revolution every eight seconds.
 
 ## Features
@@ -80,22 +96,6 @@ rm -rf ~/.local/share/plasma/look-and-feel/com.framework.cogsplash
 ```
 
 After removing it, the splash screen will no longer appear in the Plasma Splash Screen settings.
-
-## Preview
-
-### Static preview
-
-<p align="center">
-  <img src="contents/previews/splash.png" alt="Framework Cog — Smooth Clockwise static preview" width="500">
-</p>
-
-### Animated preview
-
-An animated preview can be added as `contents/previews/splash.gif` and displayed here:
-
-<p align="center">
-  <img src="contents/previews/splash.gif" alt="Framework Cog — Smooth Clockwise animated preview" width="500">
-</p>
 
 ## Unofficial / Trademark Notice
 
